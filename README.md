@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- 🌌 Banner Futurista -->
-<img src="https://i.imgur.com/Cw8aPqL.gif" width="100%"/>
-
 # 🚀✨ Sofia de Abreu ✨🚀  
 **sofiamasha · ela/dela**  
 
