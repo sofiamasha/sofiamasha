@@ -11,8 +11,8 @@
 ---
 
 ### 🔗 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEULINKEDIN)  
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEULINKEDIN](https://www.linkedin.com/in/sofiadeabreu/))  
+[![Portfólio](https://aindanaotenho)  
 
 ---
 
