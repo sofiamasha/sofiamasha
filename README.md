@@ -11,7 +11,7 @@
 
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-Sofia%20de%20Abreu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiadeabreu)  
-[![Portfolio]([https://img.shields.io/badge/🌍%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com](https://code-and-glow-portal.lovable.app)
+[![Portfolio]([https://img.shields.io/badge/🌍%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://code-and-glow-portal.lovable.app)
 
 ---
 
