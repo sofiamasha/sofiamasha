@@ -1,17 +1,18 @@
 <div align="center">
 
-# 🚀✨ Sofia de Abreu ✨🚀  
-**sofiamasha · ela/dela**  
+# 🚀✨ Sofia de Abreu ✨🚀   
+# "We only fail when we stop trying" 
+(Só falhamos quando paramos de tentar)
 
-💡 Desenvolvedora que transforma **ideias em interfaces incríveis**.  
-🎨 Criatividade + 💻 Tecnologia = **experiências digitais impactantes**.  
+💡 Meu objetivo é transformar **ideias em interfaces incríveis**.  
+🎨 Criatividade + 💻 Tecnologia = **experiências digitais impactante e cansaço na vista**.  
 🔥 Apaixonada por **usabilidade, clean code** e inovação.  
 
 ---
 
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-Sofia%20de%20Abreu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiadeabreu)  
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com)
+[![Portfolio]([https://img.shields.io/badge/🌍%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com](https://code-and-glow-portal.lovable.app)
 
 ---
 
