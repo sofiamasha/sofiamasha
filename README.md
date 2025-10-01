@@ -2,7 +2,6 @@
 
 # 🚀✨ Sofia de Abreu ✨🚀   
 # "We only fail when we stop trying" 
-(Só falhamos quando paramos de tentar)
 
 💡 Meu objetivo é transformar **ideias em interfaces incríveis**.  
 🎨 Criatividade + 💻 Tecnologia = **experiências digitais impactante e cansaço na vista**.  
