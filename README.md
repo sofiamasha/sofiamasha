@@ -1,52 +1,115 @@
-<!-- BANNER -->
-<h1 align="center">
-  🚀✨ Sofia de Abreu ✨🚀
-</h1>
+<!-- HEADER -->
+<h1 align="center">🚀✨ Sofia de Abreu ✨🚀</h1>
 
 <p align="center">
   <em>"We only fail when we stop trying"</em>
 </p>
 
 <p align="center">
-  💡 Transformando ideias em interfaces incríveis <br>
-  🎨 Criatividade + 💻 Tecnologia = experiências digitais impactantes <br>
-  🔥 Apaixonada por usabilidade, clean code e inovação
+  💡 Transformando ideias em experiências digitais memoráveis <br>
+  🎨 Criatividade + 💻 Tecnologia = interfaces que encantam <br>
+  🌸 Foco em performance, design clean e inovação constante
 </p>
 
 ---
 
-## 🌸 Sobre mim
+## 🌷 Sobre Mim
 
-🎓 **Ciência da Computação**  
-📍 PUC Minas – Coração Eucarístico  
-🕐 Graduação Presencial (Manhã)
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-✨ Por motivos de derrota estou encerrando esse repositório  
-## **tirei 8 na prova gente tchau**
+Sou estudante de **Ciência da Computação** na **PUC Minas – Coração Eucarístico**, apaixonada por desenvolvimento de software e criação de interfaces modernas.
 
-Mas seguimos brilhando.
+Meu foco está na construção de soluções eficientes, escaláveis e visualmente atraentes.  
+Acredito que tecnologia e estética caminham juntas para gerar impacto real.
+
+🌸 Perfil criativo  
+💻 Desenvolvedora focada em front-end e back-end  
+🚀 Sempre em evolução  
+
+</td>
+
+<td width="50%">
+<img src="https://i.pinimg.com/originals/9d/3e/93/9d3e93b6b06fa19b36f9f07c9e8a1c7f.gif" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🌷 Conecte-se comigo
+## 🎯 Objetivos
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sofiadeabreu/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://code-and-glow-portal.lovable.app">
-    <img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+- Desenvolver soluções digitais modernas e intuitivas  
+- Criar interfaces com alta usabilidade  
+- Atuar em projetos desafiadores que unam design e tecnologia  
+- Evoluir constantemente como desenvolvedora full stack  
 
 ---
 
-## 💻 Tech Stack
+## 🎓 Formação Acadêmica
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,java,git" />
-</p>
+**Ciência da Computação**  
+PUC Minas – Coração Eucarístico  
+Graduação Presencial (Manhã)  
+
+---
+
+## 📜 Cursos e Certificações
+
+- Formação Full Stack Developer  
+- Desenvolvimento Web Moderno com React  
+- Programação Orientada a Objetos  
+- Fundamentos de Banco de Dados SQL  
+- Versionamento com Git e GitHub  
+- Lógica de Programação Avançada  
+
+---
+
+## 🛠️ Habilidades
+
+✔ Comunicação clara  
+✔ Trabalho em equipe  
+✔ Proatividade  
+✔ Inteligência emocional  
+✔ Pensamento analítico  
+✔ Organização e liderança  
+
+🌎 Idiomas  
+- Português Nativo  
+- Espanhol Fluente  
+- Inglês Intermediário  
+
+---
+
+## 💼 Experiências
+
+🚀 Desenvolvimento de Interfaces Web modernas  
+📊 Implementação de dashboards e gráficos interativos  
+🔐 Estruturação de projetos com boas práticas de código  
+💡 Participação em projetos acadêmicos multidisciplinares  
+🌐 Construção de aplicações full stack com integração a banco de dados  
+
+---
+
+## 🧠 Ferramentas e Tecnologias
+
+### 💻 Linguagens de Programação
+JavaScript • Java • C# • C++ • SQL  
+
+### 🗄️ Banco de Dados
+SQL • MySQL • PostgreSQL  
+
+### ⚛ Frameworks
+React • Node.js  
+
+### 🖥 IDEs
+IntelliJ IDEA • Visual Studio • VS Code • Eclipse • Replit  
+
+### 🎨 Outras Ferramentas
+Figma • Canva • Trello • Git • GitHub  
 
 ---
 
@@ -60,36 +123,7 @@ Mas seguimos brilhando.
 
 ---
 
-## ⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sofiamasha&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4"/>
-</p>
-
----
-
-## 📖 Disciplinas em andamento
-
-- Arquitetura de Computadores  
-- Algoritmos e Estruturas de Dados II  
-- Libras  
-- Engenharia de Software I  
-- Trabalho Interdisciplinar II: Back-End  
-
----
-
-## 📚 Disciplinas já cursadas
-
-- Algoritmos e Estruturas de Dados I  
-- Cálculo I  
-- Introdução à Computação  
-- Laboratório de Iniciação à Programação  
-- Desenvolvimento de Interfaces Web  
-- Trabalho Interdisciplinar I: Front-End  
-
----
-
-## ✨ Atividade
+## ⚡ Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&theme=react-dark&color=ff69b4&line=ff1493&point=ffffff&area=true&hide_border=true"/>
@@ -97,12 +131,22 @@ Mas seguimos brilhando.
 
 ---
 
-## 🎀 Extra Pink Energy
+## 🌐 Conecte-se Comigo
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sofiadeabreu/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://code-and-glow-portal.lovable.app">
+    <img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
+---
+
+## 🎧 O que estou ouvindo
+
 <p align="center">
-  💗 Código limpo, mente focada e café suficiente.
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxx&cover_image=true&theme=default&bar_color=ff69b4&bar_color_cover=true"/>
 </p>
