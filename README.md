@@ -1,17 +1,29 @@
-<!-- HEADER ANIMADO -->
+<!-- BANNER GLITTER FINO SUPERIOR -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" height="60"/>
+</p>
+
+<!-- NOME ESTILIZADO -->
 <h1 align="center">
-  💗✨ Sofia de Abreu ✨💗
+  <span style="color:#ff1493; font-weight:900; font-size:48px; text-shadow: 0 0 15px #ff69b4;">
+    ✨ Sofia de Abreu ✨
+  </span>
 </h1>
 
+<!-- GLITTER CAINDO SOBRE O NOME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=30&center=true&vCenter=true&width=800&lines=Front-End+Developer;Full+Stack+in+evolution;Clean+Code+Lover;UI%2FUX+Enthusiast" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="80"/>
+</p>
+
+<!-- BANNER ROSA FINO INFERIOR -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="60"/>
 </p>
 
 ---
 
-<!-- GIF COMPUTADOR ROSA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=Front-End+Developer;Clean+Code+Lover;UI%2FUX+Enthusiast" />
 </p>
 
 ---
@@ -76,28 +88,10 @@
 
 ---
 
-## 🎯 Objetivos
-
-✨ Desenvolver soluções modernas  
-✨ Criar interfaces encantadoras  
-✨ Unir design e performance  
-✨ Evoluir constantemente  
-
----
-
-## 📊 GitHub Analytics Pink
+## 🐍 Snake Animation (Rosa Edition)
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sofiamasha&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamasha&layout=compact&theme=radical&title_color=ff69b4"/>
-</p>
-
----
-
-## 🐍 Snake Animation (contribuições)
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -116,23 +110,13 @@
 
 ---
 
-## 🎧 Spotify
-
+<!-- ANIMAÇÃO FOFA GIGANTE -->
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=default&bar_color=ff69b4&bar_color_cover=true"/>
-</p>
-
----
-
-## ✨ Cubos Animados
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100%"/>
 </p>
 
 ---
 
 <p align="center">
-💖 Código rosa, mente afiada e ambição ilimitada 💖
+💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
 </p>
