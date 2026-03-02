@@ -1,22 +1,16 @@
-<!-- SURF DE ABELHA -->
+<!-- SURF DE ABELHA LIMPO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%"/>
 </p>
 
 <!-- NOME -->
 <h1 align="center">
-  💗✨ Sofia de Abreu ✨💗
+  💗 Sofia de Abreu 💗
 </h1>
 
+<!-- BANNER ANIMADO MUDANDO DE COR -->
 <p align="center">
-  <strong style="color:#ff1493; font-size:24px;">
-    Front-End Developer
-  </strong>
-</p>
-
-<!-- GIF ROSA COM BRILHO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="450"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2000&pause=1000&color=FF1493,FF69B4,FF00FF&center=true&vCenter=true&width=600&lines=Front-End+Developer" />
 </p>
 
 ---
@@ -47,10 +41,10 @@
 
 ---
 
-## 🐍 Snake Animation (contribuições)
+## 🐍 Snake Animation
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -60,7 +54,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="80%">
+<td width="70%">
 
 ### Linguagens
 
@@ -90,14 +84,30 @@
 
 </td>
 
-<!-- BANNER ROSA VERTICAL -->
-<td width="20%">
-<img src="https://media.giphy.com/media/5xtDarzq2dQe3Y9o6dy/giphy.gif" width="100%"/>
+<td width="30%">
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="100%"/>
 </td>
 
 </tr>
 </table>
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamasha&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&border_color=ff69b4"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiamasha&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamasha&layout=compact&theme=radical&title_color=ff69b4"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff"/>
+</p>
 
 ---
 
@@ -114,11 +124,6 @@
 </p>
 
 ---
-
-<!-- FINAL ROSA IMPACTANTE -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%"/>
-</p>
 
 <p align="center">
 💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
