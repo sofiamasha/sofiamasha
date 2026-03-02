@@ -1,16 +1,11 @@
-<!-- SURF DE ABELHA LIMPO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%"/>
-</p>
-
-<!-- NOME -->
+<!-- NOME NO TOPO ABSOLUTO -->
 <h1 align="center">
-  💗 Sofia de Abreu 💗
+  💗✨ Sofia de Abreu ✨💗
 </h1>
 
-<!-- BANNER ANIMADO MUDANDO DE COR -->
+<!-- FRONT-END ANIMADO EM ROSA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2000&pause=1000&color=FF1493,FF69B4,FF00FF&center=true&vCenter=true&width=600&lines=Front-End+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Front-End+Developer" />
 </p>
 
 ---
@@ -41,10 +36,10 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Contribuições
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -54,6 +49,7 @@
 <div align="center">
 <table>
 <tr>
+
 <td width="70%">
 
 ### Linguagens
@@ -84,13 +80,28 @@
 
 </td>
 
+<!-- BANNER VERTICAL ROSA OCUPANDO LATERAL -->
 <td width="30%">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="100%"/>
+<img src="https://media.giphy.com/media/3o7btZ3T6y3J5lqZy8/giphy.gif" width="100%"/>
 </td>
 
 </tr>
 </table>
 </div>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sofiadeabreu/">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://code-and-glow-portal.lovable.app">
+<img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -107,20 +118,6 @@
 
 <p align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff"/>
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sofiadeabreu/">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://code-and-glow-portal.lovable.app">
-<img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 </p>
 
 ---
