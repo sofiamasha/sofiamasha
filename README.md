@@ -1,8 +1,44 @@
-<h1 align="center">💖 Sofia de Abreu 💖</h1>
+<!-- NOME -->
+<h1 align="center">
+  💗✨ Sofia de Abreu ✨💗
+</h1>
 
 <p align="center">
-Estudante de Ciência da Computação <br>
-Apaixonada por tecnologia, criatividade e soluções elegantes.
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Front-End+Developer" />
+</p>
+
+---
+
+## 🌸 Sobre Mim
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+🎓 Ciência da Computação – PUC Minas  
+💻 Apaixonada por desenvolvimento web  
+🎨 Foco em interfaces modernas e intuitivas  
+🚀 Criando experiências digitais impactantes  
+
+💖 Tecnologia com personalidade  
+🌷 Código limpo, organizado e escalável  
+
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -43,8 +79,9 @@ Apaixonada por tecnologia, criatividade e soluções elegantes.
 
 </td>
 
+<!-- GIF VERTICAL ROSA EM FORMATO BANNER -->
 <td width="30%">
-<img src="https://media.giphy.com/media/3o7TKsQ8U6k6X4h9Y4/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/3o7TKsQ8U6k6X4h9Y4/giphy.gif" width="100%" height="100%"/>
 </td>
 
 </tr>
@@ -65,9 +102,23 @@ Apaixonada por tecnologia, criatividade e soluções elegantes.
 </a>
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamasha&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiamasha&theme=radical&ring=ff69b4&fire=ff1493"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamasha&layout=compact&theme=radical&title_color=ff69b4"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&theme=react-dark&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff"/>
+</p>
+
 ---
 
-## ✨ Sobre Mim
-
-Sou estudante de Ciência da Computação focada em desenvolvimento de software, sempre buscando criar soluções bem estruturadas e visualmente agradáveis.  
-Gosto de transformar ideias em projetos reais e funcionais.
+<p align="center">
+💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
+</p>
