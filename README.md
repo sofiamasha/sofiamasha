@@ -35,22 +35,40 @@
 
 ---
 
-## 💻 Tech Stack
+## 🐍 Contribuições
 
-<!-- (mantém igual ao que você já tem, não vou repetir aqui pra não bagunçar) -->
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 🌐 Contato
+## 💻 Tech Stack
+
+### Linguagens
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sofiadeabreu/">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ff1493?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSharp-ff69b4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-ff1493?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<a href="https://code-and-glow-portal.lovable.app">
-<img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### Frameworks
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-ff1493?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### IDEs
+
+<p align="center">
+<img src="https://img.shields.io/badge/VSCode-ff69b4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudio-ff1493?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-ff69b4?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-ff1493?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
 ---
@@ -72,14 +90,16 @@
 
 ---
 
-## 🎧 Spotify
+## 🌐 Contato
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID_AQUI&cover_image=true&theme=default&bar_color=ff69b4&bar_color_cover=true"/>
-</p>
+<a href="https://www.linkedin.com/in/sofiadeabreu/">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=SEU_SPOTIFY_ID_AQUI&count=5"/>
+<a href="https://code-and-glow-portal.lovable.app">
+<img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
