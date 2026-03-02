@@ -1,29 +1,30 @@
-<!-- BANNER GLITTER FINO SUPERIOR -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" height="60"/>
-</p>
-
-<!-- NOME ESTILIZADO -->
-<h1 align="center">
-  <span style="color:#ff1493; font-weight:900; font-size:48px; text-shadow: 0 0 15px #ff69b4;">
-    ✨ Sofia de Abreu ✨
-  </span>
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-weight: bold; font-size: 3em;">
+  💖<span style="animation: glow 1s ease-in-out infinite alternate; color: #FF69B4;">✨ Sofia de Abreu ✨</span>💖
 </h1>
 
-<!-- GLITTER CAINDO SOBRE O NOME -->
+<style>
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00de, 0 0 40px #ff00de, 0 0 50px #ff00de, 0 0 60px #ff00de, 0 0 70px #ff00de;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+</style>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="80"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="20" style="object-fit: cover; filter: drop-shadow(0 0 5px #ff69b4);"/>
 </p>
 
-<!-- BANNER ROSA FINO INFERIOR -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="60"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="20" style="object-fit: cover; filter: hue-rotate(320deg) brightness(1.2) drop-shadow(0 0 5px #ff1493);"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=Front-End+Developer;Clean+Code+Lover;UI%2FUX+Enthusiast" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -88,11 +89,15 @@
 
 ---
 
-## 🐍 Snake Animation (Rosa Edition)
+---
+
+## 🐍 Snake Animation (contribuições)
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" style="filter: hue-rotate(320deg) brightness(1.2);"/>
 </p>
+<p align="center" style="background-color: #ffe6f2; padding: 10px; border-radius: 10px;">
+  </p>
 
 ---
 
@@ -110,13 +115,14 @@
 
 ---
 
-<!-- ANIMAÇÃO FOFA GIGANTE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px #ff69b4;"/>
 </p>
 
 ---
 
-<p align="center">
-💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
+---
+
+<p align="center" style="font-family: 'Courier New', monospace; color: #FF69B4; font-size: 1.2em;">
+  💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
 </p>
