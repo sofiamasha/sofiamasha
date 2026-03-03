@@ -80,7 +80,7 @@
 </td>
 
 <td width="30%">
-<img src="https://media.giphy.com/media/3o7TKsQ8U6k6X4h9Y4/giphy.gif" width="100%" height="100%"/>
+<img src="https://media.giphy.com/media/3o7TKsQ8U6k6X4h9Y4/giphy.gif" width="100%"/>
 </td>
 
 </tr>
@@ -139,37 +139,10 @@
 
 ---
 
-# 💗 Extra GitHub Power
-
-## 🔥 3D Contribution Metrics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiamasha&theme=radical" width="95%"/>
-</p>
-
----
-
-## 📈 Developer Radar
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiamasha&theme=radical"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiamasha&theme=radical"/>
-</p>
-
----
-
-## 💕 Profile Views Counter
+## 💕 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sofiamasha&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-## 🌸 Cute Visitor Badge
-
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=sofiamasha&left_color=ff69b4&right_color=ff1493" />
 </p>
 
 ---
