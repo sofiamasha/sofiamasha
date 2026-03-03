@@ -139,18 +139,37 @@
 
 ---
 
-## 💗 Retro Contribution Counter
+# 💗 Extra GitHub Power
+
+## 🔥 3D Contribution Metrics
 
 <p align="center">
-<img src="https://github-profile-counter.glitch.me/sofiamasha/count.svg" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiamasha&theme=radical" width="95%"/>
 </p>
 
 ---
 
-## 🌎 Visitors
+## 📈 Developer Radar
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sofiamasha" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiamasha&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiamasha&theme=radical"/>
+</p>
+
+---
+
+## 💕 Profile Views Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sofiamasha&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+## 🌸 Cute Visitor Badge
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=sofiamasha&left_color=ff69b4&right_color=ff1493" />
 </p>
 
 ---
