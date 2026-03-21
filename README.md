@@ -17,9 +17,9 @@
 <td width="50%">
 
 🎓 Ciência da Computação – PUC Minas  
-💻 Apaixonada por desenvolvimento web  
+💻 Apaixonada por números 
 🎨 Foco em interfaces modernas e intuitivas  
-🚀 Criando experiências digitais impactantes  
+🚀 Criando experiências digitais visualmente impactantes  
 
 💖 Tecnologia com personalidade  
 🌷 Código limpo, organizado e escalável  
