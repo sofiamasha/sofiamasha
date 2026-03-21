@@ -17,7 +17,8 @@
 <td width="50%">
 
 🎓 Ciência da Computação – PUC Minas  
-💻 Apaixonada por números 
+💻 Apaixonada por números
+
 🎨 Foco em interfaces modernas e intuitivas  
 🚀 Criando experiências digitais visualmente impactantes  
 
