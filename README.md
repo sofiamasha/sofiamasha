@@ -9,21 +9,21 @@
 
 ---
 
-## 🌸 Sobre Mim
+## 🌸 About Me
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-🎓 Ciência da Computação – PUC Minas  
-💻 Apaixonada por números
+🎓 Computer Science – PUC Minas  
+💻 Passionate about numbers  
 
-🎨 Foco em interfaces modernas e intuitivas  
-🚀 Criando experiências digitais visualmente impactantes  
+🎨 Focused on modern and intuitive interfaces  
+🚀 Creating visually impactful digital experiences  
 
-💖 Tecnologia com personalidade  
-🌷 Código limpo, organizado e escalável  
+💖 Technology with personality  
+🌷 Clean, organized, and scalable code  
 
 </td>
 
