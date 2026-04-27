@@ -1,4 +1,4 @@
-<!-- NOME -->
+<!-- NAME -->
 <h1 align="center">
   💗✨ Sofia de Abreu ✨💗
 </h1>
