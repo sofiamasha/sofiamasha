@@ -1,10 +1,7 @@
 <!-- NAME -->
-<h1 align="center">
-  💗✨ Sofia de Abreu ✨💗
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Front-End+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF69B4&customColorList=0&text=💗✨%20Sofia%20de%20Abreu%20✨💗&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=‎&descAlignY=60&animation=fadeIn" width="100%"/>
 </p>
 
 ---
@@ -14,6 +11,7 @@
 <div align="center">
 <table>
 <tr>
+
 <td width="50%">
 
 🎓 Computer Science – PUC Minas  
@@ -27,9 +25,12 @@
 
 </td>
 
-<td width="50%">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
+<td width="50%" align="center">
+
+<img src="./assets/sofia-drawing.png" width="100%"/>
+
 </td>
+
 </tr>
 </table>
 </div>
@@ -39,7 +40,7 @@
 ## 🐍 Contribuições
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -80,8 +81,10 @@
 
 </td>
 
-<td width="30%">
+<td width="30%" align="center">
+
 <img src="https://media.giphy.com/media/3o7TKsQ8U6k6X4h9Y4/giphy.gif" width="100%"/>
+
 </td>
 
 </tr>
@@ -93,6 +96,7 @@
 ## 🌐 Contato
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/sofiadeabreu/">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -100,6 +104,7 @@
 <a href="https://code-and-glow-portal.lovable.app">
 <img src="https://img.shields.io/badge/Portfólio-ff1493?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -107,16 +112,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamasha&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiamasha&theme=radical&ring=ff69b4&fire=ff1493"/>
+
 </p>
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamasha&layout=compact&theme=radical&title_color=ff69b4"/>
+
 </p>
 
 <p align="center">
+
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff"/>
+
 </p>
 
 ---
@@ -126,7 +138,9 @@
 ## 🔥 3D Contribution Metrics
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiamasha&theme=radical" width="95%"/>
+
 </p>
 
 ---
@@ -134,8 +148,11 @@
 ## 📈 Developer Radar
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiamasha&theme=radical"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiamasha&theme=radical"/>
+
 </p>
 
 ---
@@ -143,11 +160,15 @@
 ## 💕 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sofiamasha&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=sofiamasha&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
 </p>
 
 ---
 
 <p align="center">
+
 💖 aprendendo a evoluir aos poucos, me tornando quem eu queria ser 💖
+
 </p>
