@@ -1,7 +1,9 @@
-<!-- NAME -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF69B4&customColorList=0&text=💗✨%20Sofia%20de%20Abreu%20✨💗&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=‎&descAlignY=60&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/fotosofia.jpeg" alt="Foto de Sofia de Abreu" width="280"/>
 </p>
 
 ---
@@ -9,6 +11,7 @@
 ## 🌸 About Me
 
 <div align="center">
+
 <table>
 <tr>
 
@@ -16,10 +19,8 @@
 
 🎓 Computer Science – PUC Minas  
 💻 Passionate about numbers  
-
 🎨 Focused on modern and intuitive interfaces  
 🚀 Creating visually impactful digital experiences  
-
 💖 Technology with personality  
 🌷 Clean, organized, and scalable code  
 
@@ -33,6 +34,7 @@
 
 </tr>
 </table>
+
 </div>
 
 ---
@@ -48,6 +50,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
+
 <table>
 <tr>
 
@@ -89,6 +92,7 @@
 
 </tr>
 </table>
+
 </div>
 
 ---
@@ -112,23 +116,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamasha&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiamasha&theme=radical&ring=ff69b4&fire=ff1493"/>
-
 </p>
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamasha&layout=compact&theme=radical&title_color=ff69b4"/>
-
 </p>
 
 <p align="center">
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sofiamasha&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff"/>
-
 </p>
 
 ---
@@ -138,9 +135,7 @@
 ## 🔥 3D Contribution Metrics
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiamasha&theme=radical" width="95%"/>
-
 </p>
 
 ---
@@ -148,11 +143,8 @@
 ## 📈 Developer Radar
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofiamasha&theme=radical"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofiamasha&theme=radical"/>
-
 </p>
 
 ---
@@ -160,9 +152,7 @@
 ## 💕 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=sofiamasha&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
 </p>
 
 ---
