@@ -5,12 +5,17 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Sofia%20de%20Abreu%20Romualdo&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%20%26%20Prompt%20Engineering%20%7C%20Cybersecurity&descSize=16&descAlignY=56&descFontColor=ffb6d9&animation=twinkling&stroke=FF69B4&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&fontColor=ffffff&fontSize=46&fontAlignY=36&descSize=16&descAlignY=56&descFontColor=ffb6d9&animation=twinkling&stroke=FF69B4&strokeWidth=1" width="100%"/>
 </p>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG — frase marcante + nome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=720&height=50&lines=🤖+AI+%26+Prompt+Engineering+Specialist;🎓+Software+Engineering+%40+PUC+Minas;🛡️+Product+Owner+%26+Cybersecurity+Enthusiast;☕+Java+%26+Python+Backend+Developer;🌎+Portuguese+%7C+Spanish+%7C+English+%7C+Mandarin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=780&height=60&lines=não+escrevo+só+código.+construo+soluções.;Sofia+de+Abreu+Romualdo+💖;Software+Engineer+%26+AI+Builder" alt="Typing SVG" />
+</p>
+
+<!-- ASCII FACE — máquina "digitando" o rosto -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=14&duration=120&pause=4000&color=FF69B4&center=true&vCenter=true&multiline=true&width=420&height=220&lines=+++++++.+'+,+.+'+,+.+'+,+.;++++++%2F+%5C+%2F+%5C+%2F+%5C+%2F+%5C;+++++++%5C+.%5E%5E%5E%5E%5E%5E%5E%5E.+%2F;+++++++++%7C+◉++++◉+%7C;++++++++++%5C+++%E2%96%BE+++%2F;++++++++++%2F+%E2%95%B0%E2%94%80%E2%94%80%E2%94%80%E2%95%AF+%5C;++++++++%2F++SOFIA.exe++%5C;++++++%2F+++AI+%7C+SEC+%7C+DEV+++%5C;++++%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C" alt="Sofia ASCII face" />
 </p>
 
 <!-- CONTACT BADGES -->
@@ -34,42 +39,6 @@
   <img src="https://img.shields.io/badge/📍%20Contagem%2C%20MG%2C%20Brasil-ff69b4?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/💼%20Presencial%20%7C%20Híbrido%20%7C%20Remoto-ff1493?style=flat-square"/>
-</p>
-
-<br/>
-
----
-
-## ✨ Identidade Visual — AI Wireframe
-
-<p align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
-║   ░░    ·  · ·  ·  [SOFIA.exe initializing...]  ·  ░░   ║
-║   ░░  ·    ┌──────────────────────┐       ·       ░░   ║
-║   ░░       │  ╭────────────────╮  │                ░░   ║
-║   ░░       │  │  ◉          ◉  │  │   AI RENDERING ░░   ║
-║   ░░       │  │    ·  ▾  ·    │  │   ████████░░░░ ░░   ║
-║   ░░       │  │   ╰──────────╯  │  │   82%  DONE   ░░   ║
-║   ░░       │  ╰────────────────╯  │                ░░   ║
-║   ░░       │   ╲  SOFIA.ABREU ╱   │                ░░   ║
-║   ░░       └──────────────────────┘                ░░   ║
-║   ░░    ·  Software Engineer & AI Builder   ·      ░░   ║
-║     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
-║                                                          ║
-║  [ ✦ Building humans-first technology since day 1 ✦ ]  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </p>
 
 <br/>
@@ -155,9 +124,9 @@ const sofia: SoftwareEngineer = {
   <img src="https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-ff69b4?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRUD%20Ops-ff1493?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-ff69b4?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-ff1493?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-ff1493?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ### 📦 Product Management & Agile
@@ -166,9 +135,8 @@ const sofia: SoftwareEngineer = {
   <img src="https://img.shields.io/badge/Product%20Owner-ff69b4?style=for-the-badge&logo=productboard&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum%20Master-ff1493?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kanban-ff69b4?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-ff1493?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma%20%2F%20UX-ff69b4?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design%20Thinking-ff1493?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma%20%2F%20UX-ff1493?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Thinking-ff69b4?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 ### 🗄️ Banco de Dados & Infraestrutura
@@ -177,9 +145,9 @@ const sofia: SoftwareEngineer = {
   <img src="https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-ff1493?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modelagem%20Relacional-ff1493?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-ff1493?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-ff69b4?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-ff1493?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
 <br/>
@@ -187,7 +155,7 @@ const sofia: SoftwareEngineer = {
 ### 🛠️ Ícones de Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,js,html,css,mysql,postgres,git,figma,vscode,idea,linux&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,ts,react,js,html,css,mysql,postgres,git,figma,vscode,idea,linux&theme=dark&perline=8"/>
 </p>
 
 <br/>
@@ -208,20 +176,20 @@ Plataforma focada em segurança pessoal para mulheres, integrando alertas de eme
 
 **Stack:** `Java` `Spring Boot` `REST API` `SQL`
 
-[![SafeHer](https://img.shields.io/badge/🔗%20Ver%20Projeto-ff69b4?style=for-the-badge)](https://github.com/sofiamasha)
+[![SafeHer](https://img.shields.io/badge/🔗%20Ver%20Projeto-ff69b4?style=for-the-badge)](https://github.com/sofiamasha/SafeHer)
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### 🐾 PetMatch
-*Adoção Inteligente de Pets*
+### 🔄 BarterTech
+*Escambo de Serviços sem Dinheiro*
 
-Sistema de matching inteligente entre tutores e pets para adoção responsável, com algoritmo de compatibilidade e gestão de abrigos.
+Plataforma backend de troca de habilidades: match recíproco entre usuários, geração de contratos com integridade SHA-256 e regras de negócio robustas — sem intermediação financeira.
 
-**Stack:** `Node.js` `Python` `SQL` `UX/Figma`
+**Stack:** `Java 17` `Spring Boot` `React` `TypeScript` `Vite` `Maven` `JUnit 5`
 
-[![PetMatch](https://img.shields.io/badge/🔗%20Ver%20Projeto-ff1493?style=for-the-badge)](https://github.com/sofiamasha)
+[![BarterTech](https://img.shields.io/badge/🔗%20Ver%20Projeto-ff1493?style=for-the-badge)](https://github.com/sofiamasha/BarterTech)
 
 </td>
 
@@ -230,11 +198,11 @@ Sistema de matching inteligente entre tutores e pets para adoção responsável,
 ### 🌍 Projeto Beira Linha
 *Monitoria & Impacto Social*
 
-Atuação como monitora em projeto de extensão universitária com foco em inclusão digital e educação tecnológica em comunidades vulneráveis.
+Atuo como monitora no projeto de extensão universitária da PUC Minas, contribuindo para o desenvolvimento do site e ministrando aulas de inglês para comunidades vulneráveis.
 
-**Stack:** `Educação Tech` `Liderança` `Scrum`
+**Stack:** `Educação Tech` `Liderança` `Scrum` `Web Dev`
 
-[![Beira Linha](https://img.shields.io/badge/🔗%20Saber%20Mais-ff69b4?style=for-the-badge)](https://github.com/sofiamasha)
+[![Beira Linha](https://img.shields.io/badge/🔗%20Saber%20Mais-ff69b4?style=for-the-badge)](https://icei.pucminas.br/beiralinha/)
 
 </td>
 
