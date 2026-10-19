@@ -41,49 +41,62 @@
 ---
 
 <!-- ============================================================ -->
-<!-- FOTO + SYSTEM.SCAN LADO A LADO                               -->
+<!-- FOTO + SYSTEM.SCAN TECNOLÓGICO LADO A LADO                    -->
 <!-- ============================================================ -->
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="88%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="92%">
 <tr>
 
-<!-- COLUNA ESQUERDA: FOTO -->
-<td width="38%" align="center" valign="middle">
-<img src="./foto.jpg" width="240" style="border-radius:14px;border:2px solid #ff69b4;" alt="Sofia"/>
-<br/><br/>
-<sub><strong>✦ Building things that matter ✦</strong></sub>
+<!-- COLUNA ESQUERDA: FOTO E STATUS -->
+<td width="36%" align="center" valign="middle">
+  <img src="./foto.jpg" width="230" style="border-radius:16px; border:2px solid #ff69b4; box-shadow: 0 0 15px rgba(255,105,180,0.4);" alt="Sofia"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE_%26_BUILDING-ff69b4?style=flat-square&logo=target&logoColor=white" />
+  <br/><br/>
+  <sub><strong>✦ Building things that matter ✦</strong></sub>
 </td>
 
-<!-- COLUNA DIREITA: TERMINAL -->
-<td width="62%" valign="middle">
+<!-- COLUNA DIREITA: TERMINAL HIGH-TECH -->
+<td width="64%" valign="middle">
 
-```
-┌─────────────────────────────────────────────┐
-│  > Sofia.exe                    [ONLINE ✓]  │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Subject  Sofia de Abreu Romualdo           │
-│  Origin   Contagem, MG, Brasil 🇧🇷          │
-│  Edu      Eng. de Software · PUC Minas      │
-│  Role     Software Engineer & AI Builder    │
-│                                             │
-├──────────────── CORE STACK ─────────────────┤
-│                                             │
-│  Backend   Java 17 · Spring Boot · Python   │
-│  Frontend  TypeScript · React · Vite        │
-│  Database  PostgreSQL · MySQL               │
-│  AI        Prompt Eng. · LangChain · LLMs   │
-│  PM        Product Owner · Scrum · Kanban   │
-│                                             │
-├─────────────── LANGUAGES ───────────────────┤
-│                                             │
-│  🇧🇷  Português    Nativo      C2           │
-│  🇪🇸  Español      Fluente     C1           │
-│  🇺🇸  English      Avançado    B2           │
-│  🇨🇳  普通话       Básico      A2           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<table border="1" cellspacing="0" cellpadding="10" style="border-color: #ff69b4; border-radius: 10px; width: 100%; background-color: #0d1117;">
+<tr>
+<td>
+
+<p>
+  <code><b>System.scan(Sofia.exe)</b></code> &nbsp; 
+  <img src="https://img.shields.io/badge/BUILD-SUCCESS-brightgreen?style=social&logo=githubactions" />
+</p>
+
+<hr style="border: 1px solid #ff69b4;" />
+
+<p>
+  <b>👤 Subject:</b> Sofia de Abreu Romualdo<br/>
+  <b>📍 Origin:</b> Contagem, MG, Brasil 🇧🇷<br/>
+  <b>🎓 Edu:</b> Engenharia de Software · PUC Minas<br/>
+  <b>💼 Role:</b> Software Engineer & AI Builder
+</p>
+
+<p><b>⚡ CORE STACK</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Backend-Java_17_|_Spring_|_Python-ff69b4?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-TS_|_React_|_Vite-ff1493?style=flat-square&logo=react&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL_|_MySQL-ff69b4?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Prompt_Eng_|_LangChain-ff1493?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<p><b>🌐 LANGUAGES & PROFICIENCY</b></p>
+<p>
+  <code>🇧🇷 Português [ C2 ]</code> <img src="https://geps.dev/progress/100?dangerColor=ff69b4&warningColor=ff69b4&color=ff69b4" height="12"/><br/>
+  <code>🇪🇸 Español   [ C1 ]</code> <img src="https://geps.dev/progress/88?dangerColor=ff69b4&warningColor=ff69b4&color=ff69b4" height="12"/><br/>
+  <code>🇺🇸 English   [ B2 ]</code> <img src="https://geps.dev/progress/75?dangerColor=ff69b4&warningColor=ff69b4&color=ff69b4" height="12"/><br/>
+  <code>🇨🇳 普通话     [ A2 ]</code> <img src="https://geps.dev/progress/40?dangerColor=ff69b4&warningColor=ff69b4&color=ff69b4" height="12"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
